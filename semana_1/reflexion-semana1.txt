@@ -1,0 +1,7 @@
+Pregunta 4 
+
+En un texto de 8 a 10 líneas, responde:
+
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+R/ La relación es que los 3 facilita, la creación de entornos digitales transparentes, confiables, y que permitan la participación activa y colaborativa de todos los ciudadanos sin exclusión alguna, donde por medio de las herramientas tecnológicas permitan mejor la calidad de vida y las relaciones socioafectivas.
